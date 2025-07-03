@@ -1,1 +1,13 @@
-# RAM-Design
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: Rongali Sri Varsitha
+
+Task number: 2
+
+INTERN ID: CT04DF1792
+
+DOMAIN: VLSI
+
+DURATION: 4 WEEKS
+
+MENTOR: Neela Santhosh Kumar# RAM-Design
