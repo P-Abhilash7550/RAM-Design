@@ -1,6 +1,6 @@
 COMPANY: CODTECH IT SOLUTIONS
 
-NAME: Rongali Sri Varsitha
+NAME: Penumuchu Abhilash
 
 Task number: 2
 
